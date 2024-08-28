@@ -13,6 +13,28 @@ The GPT is also equipped to provide in-depth and accurate explanations of comple
 In addition to answering questions directly, the GPT is designed to interact with users in a way that encourages clarity and precision. It employs a step-by-step multiple-choice process to guide users through complex queries, ensuring that the responses provided are as relevant and helpful as possible. By prompting users for clarification when queries are ambiguous, it helps to tailor its assistance to the specific needs and goals of each user. This interactive approach not only improves the quality of the assistance provided but also enhances the user’s understanding and engagement with the subject matter.
 
 #
+### Biochemical Programming Concepts
+
+Biochemical programming involves using computational tools and techniques to model, analyze, and simulate biochemical processes. This interdisciplinary field draws from biochemistry, molecular biology, computer science, and mathematics.
+
+1. Molecular Dynamics (MD) Simulations
+2. Quantum Mechanics/Molecular Mechanics (QM/MM)
+3. Molecular Docking
+4. Systems Biology Modeling
+5. Bioinformatics Algorithms
+6. Machine Learning in Biochemistry
+7. Monte Carlo Simulations
+8. Network Biology
+9. Structural Bioinformatics
+10. Artificial Intelligence in Biochemistry
+11. Computational Enzyme Design
+12. Metabolomics and Metabolic Modeling
+13. Sequence Analysis and Annotation
+14. Computational Drug Design
+15. Biochemical Kinetics Modeling
+16. Protein-Ligand Interaction Analysis
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT/tree/main)

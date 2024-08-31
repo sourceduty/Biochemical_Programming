@@ -37,7 +37,9 @@ Biochemical programming involves using computational tools and techniques to mod
 #
 ### Related Links
 
-[ChatGPT](https://github.com/sourceduty/ChatGPT/tree/main)
+[ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Biological Simulator](https://github.com/sourceduty/Biological_Simulator)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
